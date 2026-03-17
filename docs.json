@@ -8,29 +8,39 @@
     "dark": "#0A84FF"
   },
   "navigation": {
-    "products": [
+    "versions": [
       {
-        "product": "Untitled Product",
+        "version": "Untitled Version",
         "dropdowns": [
           {
             "dropdown": "Untitled Dropdown",
-            "anchors": [
+            "products": [
               {
-                "anchor": "Документы"
+                "product": "Документы",
+                "pages": [
+                  "3-copied-2",
+                  "2",
+                  "1-copied-1"
+                ]
               }
             ]
           },
           {
-            "dropdown": "Документы"
+            "dropdown": "Документы",
+            "pages": [
+              "3-copied-1",
+              "2-copied-1",
+              "1"
+            ]
           }
         ]
       },
       {
-        "product": "Документы",
+        "version": "Документы1",
         "pages": [
           "3",
-          "2",
-          "1"
+          "2-copied-2",
+          "1-copied-2"
         ]
       }
     ]
