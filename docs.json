@@ -8,39 +8,13 @@
     "dark": "#0A84FF"
   },
   "navigation": {
-    "versions": [
+    "groups": [
       {
-        "version": "Untitled Version",
-        "dropdowns": [
-          {
-            "dropdown": "Untitled Dropdown",
-            "products": [
-              {
-                "product": "Документы",
-                "pages": [
-                  "3-copied-2",
-                  "2",
-                  "1-copied-1"
-                ]
-              }
-            ]
-          },
-          {
-            "dropdown": "Документы",
-            "pages": [
-              "3-copied-1",
-              "2-copied-1",
-              "1"
-            ]
-          }
-        ]
-      },
-      {
-        "version": "Документы1",
+        "group": "Документы",
         "pages": [
-          "3",
-          "2-copied-2",
-          "1-copied-2"
+          "1",
+          "2",
+          "3"
         ]
       }
     ]
