@@ -8,13 +8,21 @@
     "dark": "#0A84FF"
   },
   "navigation": {
-    "tabs": [
+    "anchors": [
       {
-        "tab": "Документы",
+        "anchor": "Untitled Anchor",
+        "tabs": [
+          {
+            "tab": "Документы"
+          }
+        ]
+      },
+      {
+        "anchor": "Документы",
         "pages": [
-          "1",
+          "3",
           "2",
-          "3"
+          "1"
         ]
       }
     ]
