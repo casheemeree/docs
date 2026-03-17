@@ -10,7 +10,10 @@
   "navigation": {
     "dropdowns": [
       {
-        "dropdown": "Untitled Dropdown"
+        "dropdown": "Untitled Dropdown",
+        "pages": [
+          "doc1"
+        ]
       }
     ]
   },
