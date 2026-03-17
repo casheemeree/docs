@@ -38,6 +38,12 @@
     "strict": true,
     "default": "dark"
   },
+  
+  "background": {
+  "color": {
+    "dark": "#0A0A0A"
+  }
+},
   "fonts": {
     "family": "Inter"
   },
