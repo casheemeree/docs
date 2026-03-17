@@ -8,11 +8,13 @@
     "dark": "#0A84FF"
   },
   "navigation": {
-    "dropdowns": [
+    "tabs": [
       {
-        "dropdown": "Untitled Dropdown",
+        "tab": "Документы",
         "pages": [
-          "doc1"
+          "1",
+          "2",
+          "3"
         ]
       }
     ]
