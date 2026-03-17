@@ -54,5 +54,6 @@
     "404": {
       "redirect": false
     }
-  }
+  },
+  "favicon": "/images/favicon-blender.svg"
 }
