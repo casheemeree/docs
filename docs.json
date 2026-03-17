@@ -8,17 +8,25 @@
     "dark": "#0A84FF"
   },
   "navigation": {
-    "dropdowns": [
+    "products": [
       {
-        "dropdown": "Untitled Dropdown",
-        "anchors": [
+        "product": "Untitled Product",
+        "dropdowns": [
           {
-            "anchor": "Документы"
+            "dropdown": "Untitled Dropdown",
+            "anchors": [
+              {
+                "anchor": "Документы"
+              }
+            ]
+          },
+          {
+            "dropdown": "Документы"
           }
         ]
       },
       {
-        "dropdown": "Документы",
+        "product": "Документы",
         "pages": [
           "3",
           "2",
