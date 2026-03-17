@@ -12,6 +12,10 @@
       {
         "group": "Инструкции",
         "pages": [
+          "ios",
+          "android",
+          "macos",
+          "windows",
           "android-tv"
         ]
       },
